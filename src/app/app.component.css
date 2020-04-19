@@ -1,0 +1,6 @@
+.bckgrnd-img {
+  height: 100em;
+  background-size: cover;
+  width: 100%;
+  background-image: url("https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?crop=entropy&cs=srgb&dl=plate-of-rice-and-cooked-meat-1624487.jpg&fit=crop&fm=jpg&h=5760&w=3840");
+}

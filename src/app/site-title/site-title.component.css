@@ -1,0 +1,8 @@
+.title-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 6%;
+  padding-bottom: 5%;
+  font-size: xx-large;
+}
