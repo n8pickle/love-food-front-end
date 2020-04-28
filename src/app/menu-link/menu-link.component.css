@@ -7,4 +7,5 @@
 .lght-txt {
   color: rgba(233, 233, 233, 1);
   text-decoration: underline;
+  cursor: pointer;
 }

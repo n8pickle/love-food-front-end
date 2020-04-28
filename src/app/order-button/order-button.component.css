@@ -4,3 +4,7 @@ div {
   display: flex;
   padding: 2%;
 }
+
+span {
+  cursor: pointer;
+}
